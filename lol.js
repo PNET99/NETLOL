@@ -1,8 +1,8 @@
-//Credit By Akira
-//LolHuman
-//Riu
-//Roy
-//Jangan di Hapus Credit Goblok
+//PNET99
+//PNET99
+//PNET99
+//PNET99
+//PNET99
 
 //Wa Connection
 const {
@@ -37,9 +37,9 @@ const vcard = 'BEGIN:VCARD\n'  // Jan diubah,Ntar Error
             + 'END:VCARD' // Jan diubah,Ntar Error
 //Setingan
 apikey = 'AkiraYT' 
-prefix = 'x' 
-owner = '6282158549899' 
-cr = 'Selfbot Lol-Human By Akira'
+prefix = '.' 
+owner = '6283806256473' 
+cr = 'PNET99'
 //Premium
 const premium = JSON.parse(fs.readFileSync('./database/user/premium.json'))
 
