@@ -4,12 +4,12 @@ let path = require('path')
 let fs = require('fs')
 let package = require('./package.json')
 const CFonts  = require('cfonts')
-CFonts.say('SELFBOT LOLHUMAN\nBY AKIRA', {
+CFonts.say('WELCOME\nMY TERMUX', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`SELFBOT LOLHUMAN BY AKIRA`, {
+CFonts.say(`PNET99`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
