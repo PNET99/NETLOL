@@ -394,21 +394,6 @@ const help = (prefix, pushname2, premi, uptime, tanggal, akiratod ) => {
 ║┣❏${prefix}ngif
 ║┣❏${prefix}nsfw_neko_gif
 ║┣❏${prefix}random_hentai_gif
-║┃
-║┣━━⊱*「 Thanks To 」* 
-║┃
-║┣❏ Akira
-║┣❏ Roy ( Team )
-║┣❏ Riu ( Team )
-║┣❏ Vhtear
-║┣❏ Xteam
-║┣❏ LolHuman
-║┣❏ Onlydevone
-║┣❏ Itsmeiky
-║┣❏ Ramlan ID
-║┣❏ Kazuya Develover
-║┃
-║┗━━━⊱*《 SelfBot LolHuman 》*
 ╚═════════════════❍`
 }
 exports.help = help
