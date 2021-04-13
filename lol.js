@@ -31,12 +31,12 @@ const { mimeTypes } = require('file-type')
 const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n'  // Jan diubah,Ntar Error
             + 'VERSION:3.0\n'  // Jan diubah,Ntar Error
-            + 'FN:Akira\n'  // Ganti jadi namamu
-            + 'ORG: Pengembang SELFBOT LOLHUMAN;\n'  // Ganti jadi namamu/Botmu
+            + 'FN:PNET99\n'  // Ganti jadi namamu
+            + 'ORG: Pengembang Robotic;\n'  // Ganti jadi namamu/Botmu
             + 'TEL;type=CELL;type=VOICE;waid=6282158549899:+6282158549899\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
             + 'END:VCARD' // Jan diubah,Ntar Error
 //Setingan
-apikey = 'AkiraYT' 
+apikey = '5cf251740b6fe380d2c8c96e' 
 prefix = '.' 
 owner = '6283806256473' 
 cr = 'PNET99'
